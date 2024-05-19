@@ -1,2 +1,3 @@
 # Caixa-Eletronico
- caixa eletronico usando em c++
+ caixa eletronico em c++
+ Com funções para saque, depósito e extrato.
